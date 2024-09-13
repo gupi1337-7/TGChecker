@@ -1,0 +1,28 @@
+{
+    "manifest_version": 3,
+    "name": "TgChecker",
+    "description": "TgChecker",
+    "version": "1.0.5",
+    "icons": {
+        "16": "Images/myicon.png",
+        "32": "Images/myicon.png",
+        "48": "Images/myicon.png",
+        "64": "Images/myicon.png"
+    },
+    "permissions": [
+        "tabs",
+        "storage",
+        "scripting",
+        "alarms"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "host_permissions": [
+        "https://web.telegram.org/*"
+    ],
+    
+    "action": {
+        "default_popup": "popup.html"
+    }
+}
