@@ -65,7 +65,7 @@ This extension is for educational and personal use only. Be sure to comply with 
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/yourusername/telegram-parser-extension/issues) if you want to contribute.
+Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/gupi1337-7/TGChecker/issues) if you want to contribute.
 Please read our [contribution guidelines](CONTRIBUTING.md) before submitting pull requests.
 
 ## 📝 License
